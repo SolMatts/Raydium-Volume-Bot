@@ -79,16 +79,7 @@ npm start
 
 ```
 npm run gather
-```
-
-
-# 👤 Author
-
-### Discord: rabnail_15 in discord
-
-### Twitter: [@Rabnail_SOL](https://twitter.com/Rabnail_SOL)   
-
-### Telegram: [@Rabnail_SOL](https://t.me/Rabnail_SOL)   
+```  
 
 
 You can always find me here, for help, or for other projects.
